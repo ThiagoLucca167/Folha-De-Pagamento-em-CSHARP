@@ -1,0 +1,21 @@
+C:\Users\thiag\OneDrive\Área de Trabalho\teste de crud em txt\bin\Debug\teste de crud em txt.exe
+C:\Users\thiag\OneDrive\Área de Trabalho\teste de crud em txt\bin\Debug\teste de crud em txt.exe.config
+C:\Users\thiag\OneDrive\Área de Trabalho\teste de crud em txt\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\teste de crud em txt\bin\Debug\itextsharp.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\teste de crud em txt\bin\Debug\itextsharp.xml
+C:\Users\thiag\OneDrive\Área de Trabalho\teste de crud em txt\obj\Debug\teste de crud em txt.csproj.AssemblyReference.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\teste de crud em txt\obj\Debug\teste_de_crud_em_txt.FolhaPagamento.resources
+C:\Users\thiag\OneDrive\Área de Trabalho\teste de crud em txt\obj\Debug\teste_de_crud_em_txt.Funcionario.resources
+C:\Users\thiag\OneDrive\Área de Trabalho\teste de crud em txt\obj\Debug\teste_de_crud_em_txt.InfoPessoais.resources
+C:\Users\thiag\OneDrive\Área de Trabalho\teste de crud em txt\obj\Debug\teste_de_crud_em_txt.Properties.Resources.resources
+C:\Users\thiag\OneDrive\Área de Trabalho\teste de crud em txt\obj\Debug\teste_de_crud_em_txt.RHFolhaPonto.resources
+C:\Users\thiag\OneDrive\Área de Trabalho\teste de crud em txt\obj\Debug\teste_de_crud_em_txt.RHHistoricoFuncionario.resources
+C:\Users\thiag\OneDrive\Área de Trabalho\teste de crud em txt\obj\Debug\teste_de_crud_em_txt.TeladeRH.resources
+C:\Users\thiag\OneDrive\Área de Trabalho\teste de crud em txt\obj\Debug\teste_de_crud_em_txt.TelaFuncionario.resources
+C:\Users\thiag\OneDrive\Área de Trabalho\teste de crud em txt\obj\Debug\teste_de_crud_em_txt.TelaLogin.resources
+C:\Users\thiag\OneDrive\Área de Trabalho\teste de crud em txt\obj\Debug\teste de crud em txt.csproj.GenerateResource.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\teste de crud em txt\obj\Debug\teste de crud em txt.csproj.CoreCompileInputs.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\teste de crud em txt\obj\Debug\teste de crud em txt.csproj.CopyComplete
+C:\Users\thiag\OneDrive\Área de Trabalho\teste de crud em txt\obj\Debug\teste de crud em txt.exe
+C:\Users\thiag\OneDrive\Área de Trabalho\teste de crud em txt\obj\Debug\teste de crud em txt.pdb
+C:\Users\thiag\OneDrive\Área de Trabalho\teste de crud em txt\bin\Debug\teste de crud em txt.pdb
